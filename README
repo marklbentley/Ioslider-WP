@@ -1,0 +1,21 @@
+======ioslider=======
+Turn your pictures in to a iphone style gallery
+
+How to use
+
+Basic setup:
+
+1.Copy files to your plugins directory
+2.Activate the plugin in your admin area
+3.In your post/page html editor type <div id="ioslider_large">
+4.Add your images
+5.Type </div>
+
+Advanced setup:
+
+1&2 as above
+3. Create an element and give it an id
+4. Place any type of element within the parent element e.g. imgs or a list
+5. Go to the options for ioslider
+6. Add the parent element's id to the size of ioslider you require and save.
+
